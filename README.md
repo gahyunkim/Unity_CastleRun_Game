@@ -2,7 +2,7 @@
 
 ## 게임 소개 (Castle Run_캐슬 런)
 
-공주가 뺴앗긴 왕국(성)을 되찾는 게임
+공주가 뺴앗긴 왕국(성)을 되찾는 게임 + 왕국을 되찾기 위해서는 3개의 스테이지에서 갇힌 세명의 사람들을 모두 구해야 함
 
 ## 게임 기획
 
@@ -41,6 +41,3 @@
 ![image](https://user-images.githubusercontent.com/68581876/126447280-4e4e7e1e-2718-446a-87e5-865eea421ff2.png)
 ![image](https://user-images.githubusercontent.com/68581876/126447408-c0beb1ae-8b7b-42fa-a766-57bbfe24ecc2.png)
 ![image](https://user-images.githubusercontent.com/68581876/126447417-7332934e-67e9-4b70-8ce9-1835f13fd982.png)
-
-## 게임 시연 영상
-
