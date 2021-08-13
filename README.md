@@ -34,7 +34,7 @@
 - 모든 스테이지 클리어하면 (모든 사람들을 구출하면) 게임 클리어
 
 ## 게임 구성 이미지
-- 게임 구성 이미지는 모두 https://opengameart.org/ 에서 다운로드하여 사용함
+- 게임 구성 이미지는 모두 https://opengameart.org/ 에서 다운로드하여 사용함  
 ![Game_1](https://user-images.githubusercontent.com/68581876/126446935-a824bf00-8415-48d4-94ff-315b08d83cc1.png)
 ![image](https://user-images.githubusercontent.com/68581876/126447147-640531b6-b92a-45c7-a7fb-3e76e29eae19.png)
 ![image](https://user-images.githubusercontent.com/68581876/126447108-8a6777cd-8ad8-4ac5-b044-ac95f91d4808.png)
